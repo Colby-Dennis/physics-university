@@ -1,0 +1,14 @@
+li {
+    width: 50px;
+    text-align: center;
+    border: 10px;
+}
+
+li :hover {
+    background-color: red;
+    
+}
+
+.navIcon :hover{
+    background-color: aqua;
+}
